@@ -5,3 +5,4 @@ List Support Map
 
 * Mine Antartica
 * Cake Mountain
+* Click Simulator
